@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 🌱 What I'm Learning: I am looking to continue growing my Python skillset and connecting with others in the Data Science community!
 
 💻 Some of my Languages and Tools: Python, <img src="{(https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)}" /> snowflake r git SQL Tableau
+![image]({[BadgeURLHere](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)})
 
  Contact me: [https://www.linkedin.com/in/maulik-vyas/](https://www.linkedin.com/in/mvyas22/)
