@@ -24,4 +24,11 @@ Here are some ideas to get you started:
 💻 Some of my Languages and Tools: Python, <img src="{(https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)}" /> snowflake r git SQL Tableau
 ![TensorFlow]([BadgeURLHere](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white))
 
+![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Pythonb&logoColor=green)
+![snowflake](https://img.shields.io/badge/Snowflake-000000?style=for-the-badge&logo=Snowflake&logoColor=blue)
+![r](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white)
+![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=blue)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=purple)
+
  Contact me: [https://www.linkedin.com/in/maulik-vyas/](https://www.linkedin.com/in/mvyas22/)
