@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **maulik-vyas/maulik-vyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m @maulik-vyas. I am an Aspiring Data Scientist based in Toronto, Canada.
+
+👀 Interests: I am a lover of data preprocessing!
+
+🌱 What I'm Learning: I am looking to continue growing my Python skillset and connecting with others in the Data Science community!
+
+💻 Some of my Languages and Tools: python snowflake r git SQL Tableau
+
+ Contact me: [https://www.linkedin.com/in/maulik-vyas/](https://www.linkedin.com/in/mvyas22/)
