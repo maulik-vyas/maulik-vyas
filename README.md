@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 💻 Some of my Languages and Tools: 
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Pythonb&logoColor=green)
-![r](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=R&logoColor=white)
-![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=SQL&logoColor=blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=purple)
+![git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
  Contact me: [https://www.linkedin.com/in/maulik-vyas/](https://www.linkedin.com/in/mvyas22/)
