@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m @maulik-vyas. I am an Aspiring Data Scientist based in Toronto, Canada.
+👋 Hi, I’m @maulik-vyas. I am a Data Scientist based in Toronto, Canada.
 
 👀 Interests: I am a lover of data preprocessing!
 
